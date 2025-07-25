@@ -74,6 +74,11 @@
 - **Save at Tower (Daytime)**
 - **No save → Restart from Level 0**
 - **Saved progress → Resume from last checkpoint**
+- 
+### Top contributors:
+<a href="https://github.com/dmt041104111003/seko/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dmt041104111003/seko" alt="contrib.rocks image" />
+</a>
 
 ________________________________________________________________________
 ________________________________________________________________________
